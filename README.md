@@ -17,8 +17,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Program:
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: R Guruprasad
-RegisterNumber:  212222240033
+Developed by: H.berjin shabeck
+RegisterNumber:  212222240018
 */
 ```
 import numpy as np
